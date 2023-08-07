@@ -14,3 +14,4 @@ Algorithms included:
 Datasets Source -  Kaggle
 - https://www.kaggle.com/datasets/team-ai/spam-text-message-classification
 - https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset 
+Creata a "data" directory and keep your files in it
