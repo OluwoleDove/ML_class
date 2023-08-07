@@ -1,14 +1,15 @@
 A CUSTOMER SEGMENTATION SYSTEM
 This system could use multiple linear regression to predict customer spending behavior, Apriori to identify frequent 
 itemsets in customer transactions, KNN to identify customers with similar spending patterns, K-means to cluster customers 
-into groups of similar customers, hierarchical clustering to identify customer segments, Naive Bayes to classify customers
- into segments, random forest and decision trees to build a more complex customer segmentation model, polynomial 
- regression to handle nonlinear relationships between the independent and dependent variables, and feature engineering 
- to transform raw data into features that are more predictive of customer spending behavior.
+into similar groups, hierarchical clustering to identify customer segments, Naive Bayes to classify customers
+into segments, random forest and decision trees to build a more complex customer segmentation model, polynomial 
+regression to handle nonlinear relationships between the independent and dependent variables, and feature engineering 
+to transform raw data into features that are more predictive of customer spending behavior.
 
 This system could be used by businesses to target their marketing campaigns more effectively and to provide better 
 customer service. It could also be used by businesses to identify new customer segments and to develop new products and 
 services that meet the needs of those segments.
+
 
 A PRODUCT RECOMMENDATION SYSTEM
 This system could use multiple linear regression to predict the likelihood of a customer purchasing a product, Apriori to 
@@ -21,6 +22,7 @@ product preferences.
 
 This system could be used by businesses to recommend products to customers on their websites or in their stores. It could 
 also be used by businesses to personalize the shopping experience for their customers.
+
 
 A MEDICAL DIAGNOSIS SYSTEM
 This system could use multiple linear regression to predict the likelihood of a patient having a particular disease, 
@@ -48,8 +50,9 @@ data into features that are more predictive of fraud.
 This system could be used by banks, credit card companies, and other financial institutions to identify and prevent 
 fraudulent transactions. It could also be used by retailers to identify and prevent fraudulent returns.
 
+
 NEURAL NETWORKS
-some examples of cases where neural networks would be a better choice:
+Some examples of cases where neural networks would be a better choice:
 
 Natural language processing: Neural networks are often used for natural language processing tasks, such as machine 
 translation, text classification, and sentiment analysis. This is because neural networks are able to learn complex 
